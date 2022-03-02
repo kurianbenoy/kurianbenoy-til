@@ -1,0 +1,14 @@
+## Deployment concept TLDR version for me later
+
+Resource Utilization (keep it in 50 to 90%, use htop for monitoring)
+Automatic start (done by docker, kubernetees etc)
+Automatic Restart (ideally should be done by external system, but usually done with same starter)
+Process - running program
+Replication - Add more
+HTTPS is important
+
+Resources:
+
+1. https://fastapi.tiangolo.com/id/deployment/concepts/
+2. https://fastapi.tiangolo.com/id/deployment/https/
+3. https://howhttps.works/
