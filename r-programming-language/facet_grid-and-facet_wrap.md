@@ -6,13 +6,13 @@ description: ramblings on using ggplot
 
 How to create wonderful visualizations in R like the below with multiple panel plots?
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 Facetting - can be consider as a method to create multiple panel plots based on splitting attributes which we decide.
 
 
 
-![](<../.gitbook/assets/image (15) (1).png>)
+![](<../.gitbook/assets/image (17).png>)
 
 **Using facet\_grid**
 
@@ -37,7 +37,7 @@ ggplot(gapminder, aes(x=pop)) + geom_density() +
  facet_wrap(~year) + scale_x_log10()
 ```
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 **Main difference I noticed was:**
 

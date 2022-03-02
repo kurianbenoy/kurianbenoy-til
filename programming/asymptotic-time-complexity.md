@@ -20,4 +20,4 @@ c1.g(n) <= f(n) <= c2.g(n)
 
 We usually in industry consider even though it's considered as upper bound. It's usually considered closer to definition of big theta time.
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (28).png>)
