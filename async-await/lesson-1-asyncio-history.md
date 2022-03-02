@@ -1,6 +1,6 @@
 # Lesson 1- asyncio history
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 
 

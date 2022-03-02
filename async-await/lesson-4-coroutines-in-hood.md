@@ -28,7 +28,7 @@ In python3, the default implementation is in C, while python implementation is t
 
 ****
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (23).png>)
 
 
 

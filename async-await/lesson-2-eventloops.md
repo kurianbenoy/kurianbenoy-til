@@ -4,7 +4,7 @@
 * call\_later
 * run\_forever - loops
 
-![](<../.gitbook/assets/image (1).png>)
+![](../.gitbook/assets/image.png)
 
 Select operations
 
@@ -18,7 +18,7 @@ twisted calls eventloops
 
 I/0 completion Ports - changes. In windows you can use proactors and selctors. In Unix you can use selectors
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 Base\_events - consists of base events, yet there is only while loops there
 
@@ -32,9 +32,9 @@ Heart of heart of asyncio is select\_once method which calls the proactors and i
 
 ![](<../.gitbook/assets/image (10).png>)
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (11).png>)
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 
 
