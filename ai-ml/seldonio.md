@@ -38,8 +38,14 @@ as well as integration with third-party systems:
 
 To learn more about Seldon refer below links:
 
-[https://docs.seldon.io/projects/seldon-core/en/latest/index.html\
-docs.seldon.io\
-https://github.com/SeldonIO/seldon-core\
-https://github.com/SeldonIO/MLServer\
-](https://docs.seldon.io/projects/seldon-core/en/latest/index.htmldocs.seldon.iohttps://github.com/SeldonIO/seldon-corehttps://github.com/SeldonIO/MLServer)
+- https://docs.seldon.io/projects/seldon-core/en/latest/index.html\
+- docs.seldon.io
+- https://github.com/SeldonIO/seldon-core\
+- https://github.com/SeldonIO/MLServer\
+
+## What is difference b/w Seldon Core and MLServer?
+
+Basically Seldon Core is the "orchestrator" that takes your model, deploys it on to a server,
+collects metrics and logs and creates services and routing over the top. MLServer is the "engine"
+that actually handles executions of that model during inference. Seldon Core uses MLServer as a
+runtime to deploy your models on.
