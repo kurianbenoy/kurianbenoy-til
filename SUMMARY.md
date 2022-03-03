@@ -45,6 +45,7 @@
 
 ## Git/Github
 
+* [give credits to other people](git-github/give-credits-to-other-people.md)
 * [git suggestions in PR](git-github/git-suggestions-in-pr.md)
 * [Using emojis in git commits](git-github/using-emojis-in-git-commits.md)
 
