@@ -4,23 +4,15 @@ Seldon core converts your ML models (Tensorflow, Pytorch, H2o, etc.) or language
 
 Seldon handles scaling to thousands of production machine learning models and provides advanced machine learning capabilities out of the box including Advanced Metrics, Request Logging, Explainers, Outlier Detectors, A/B Tests, Canaries and more.
 
-
-
 #### Deploy your model using pre-packaged model servers[¶](https://docs.seldon.io/projects/seldon-core/en/latest/workflow/github-readme.html#deploy-your-model-using-pre-packaged-model-servers) <a href="#deploy-your-model-using-pre-packaged-model-servers" id="deploy-your-model-using-pre-packaged-model-servers"></a>
 
 We provide optimized model servers for some of the most popular Deep Learning and Machine Learning frameworks that allow you to deploy your trained model binaries/weights without having to containerize or modify them.
-
-
 
 **Send API requests to your deployed model**[**¶**](https://docs.seldon.io/projects/seldon-core/en/latest/workflow/github-readme.html#send-api-requests-to-your-deployed-model)
 
 Every model deployed exposes a standardised User Interface to send requests using our OpenAPI schema.
 
 This can be accessed through the endpoint `http://<ingress_url>/seldon/<namespace>/<model-name>/api/v1.0/doc/` which will allow you to send requests directly through your browser
-
-
-
-
 
 These are Seldon Core main components:
 
@@ -38,14 +30,17 @@ as well as integration with third-party systems:
 
 To learn more about Seldon refer below links:
 
-- https://docs.seldon.io/projects/seldon-core/en/latest/index.html\
-- docs.seldon.io
-- https://github.com/SeldonIO/seldon-core\
-- https://github.com/SeldonIO/MLServer\
+* https://docs.seldon.io/projects/seldon-core/en/latest/index.html\\
+* docs.seldon.io
+* https://github.com/SeldonIO/seldon-core\\
+* https://github.com/SeldonIO/MLServer\\
 
 ## What is difference b/w Seldon Core and MLServer?
 
-Basically Seldon Core is the "orchestrator" that takes your model, deploys it on to a server,
-collects metrics and logs and creates services and routing over the top. MLServer is the "engine"
-that actually handles executions of that model during inference. Seldon Core uses MLServer as a
-runtime to deploy your models on.
+Basically Seldon Core is the "orchestrator" that takes your model, deploys it on to a server, collects metrics and logs and creates services and routing over the top. MLServer is the "engine" that actually handles executions of that model during inference. Seldon Core uses MLServer as a runtime to deploy your models on.
+
+
+
+Another big difference is seldon-io core uses Flask under it's backend (for non-parallelization).
+
+While ML-server is build with FastAPI, so our APIs with seldon can work on top of it as well.
