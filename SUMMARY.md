@@ -2,6 +2,7 @@
 
 * [Today I learned!](README.md)
 * [Deployment](deployment/README.md)
+  * [Canary Releases](deployment/canary-releases.md)
   * [Kubernetees Helm Charts](deployment/kubernetees-helm-charts.md)
 * [AI/ML](ai-ml/README.md)
   * [SeldonIO](ai-ml/seldonio.md)
