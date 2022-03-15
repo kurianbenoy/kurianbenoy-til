@@ -22,3 +22,7 @@ PATCH
 PUT is expecting full resource details to modify, while PATCH is expecting with partial details itself to modify stuff
 
 OPTIONS
+
+
+
+Using Get request with payload is not a good practise for client applications like in frontend websites, while in RFC protocol nothing is stopping from using that approach.

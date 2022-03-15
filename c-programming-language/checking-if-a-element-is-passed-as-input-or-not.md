@@ -4,7 +4,7 @@ Usually most of the C programs I had learned in my school were expecting an inpu
 
 In C you can can check if the user input is valid or not by checking if it's value is 1 while reading. A sample program to do this is as shown below:
 
-![](<../.gitbook/assets/WhatsApp Image 2021-09-22 at 9.38.35 PM (1).jpeg>)
+![](<../.gitbook/assets/WhatsApp Image 2021-09-22 at 9.38.35 PM.jpeg>)
 
 According to function definition shared by Selvaraj:
 
