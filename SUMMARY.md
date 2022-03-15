@@ -2,11 +2,12 @@
 
 * [Today I learned!](README.md)
 * [Deployment](deployment/README.md)
-  * [Rolling, Canary, Blue-green deployments](deployment/rolling-canary-blue-green-deployments.md)
+  * [Rolling, Canary, Blue-green deployments](deployment/canary-releases.md)
   * [Kubernetees Helm Charts](deployment/kubernetees-helm-charts.md)
 * [AI/ML](ai-ml/README.md)
   * [SeldonIO](ai-ml/seldonio.md)
   * [Eliza - demo](ai-ml/eliza-demo.md)
+  * [Helsinki-NLP Translation models](ai-ml/helsinki-nlp-translation-models.md)
 
 ## Python
 
