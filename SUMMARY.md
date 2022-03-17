@@ -50,6 +50,7 @@
 ## Git/Github
 
 * [give credits to other people](git-github/give-credits-to-other-people.md)
+* [one time setting to easily use Github](git-github/one-time-setting-to-easily-use-github.md)
 * [Checkout to specific tag](git-github/checkout-to-specific-tag.md)
 * [git suggestions in PR](git-github/git-suggestions-in-pr.md)
 * [Using emojis in git commits](git-github/using-emojis-in-git-commits.md)
