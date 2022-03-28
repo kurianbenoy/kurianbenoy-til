@@ -21,6 +21,7 @@
 * [Certbots usage](programming/certbots-usage.md)
 * [Code highlighting in Google Docs](programming/code-highlighting-in-google-docs.md)
 * [HTTP Methods](programming/http-methods.md)
+* [HTTP Status Codes](programming/http-status-codes.md)
 * [Keycloak, Oauth, OpenID connect, SAML](programming/keycloak-oauth-openid-connect-saml.md)
 * [Why should NPM packages be as small as possible?](programming/untitled-1.md)
 * [REST vs gRPC](programming/rest-vs-grpc.md)

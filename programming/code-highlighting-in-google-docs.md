@@ -6,7 +6,7 @@ Installation
 
 1. Open addons in google docs and search for codeblock\
    \
-   &#x20;![](<../.gitbook/assets/image (13).png>)
+   &#x20;![](<../.gitbook/assets/image (13) (1).png>)
 
 2\. Install and start using
 
