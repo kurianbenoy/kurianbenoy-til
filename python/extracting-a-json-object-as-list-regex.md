@@ -18,7 +18,7 @@ Let's check regex101 with website:
 
 
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31) (1).png>)
 
 
 
