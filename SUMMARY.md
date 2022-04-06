@@ -14,6 +14,7 @@
 * [Understanding get\_image\_files in fastai](python/untitled-1-1.md)
 * [Resizing an image to smaller size](python/untitled-1.md)
 * [Extracting a Json Object as List(regex)](python/extracting-a-json-object-as-list-regex.md)
+* [f-strings debugging shortcut](python/f-strings-debugging-shortcut.md)
 * [Pytest](python/pytest.md)
 
 ## Programming
