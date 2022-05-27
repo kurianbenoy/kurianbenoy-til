@@ -14,17 +14,17 @@ I used to write the things in my personal blog, but I feel this requires a place
 
 Other interesting TILs by awesome folks:
 
-[https://til.kracekumar.com/](https://til.kracekumar.com) - KraceKumar
+[https://til.kracekumar.com/](https://til.kracekumar.com/) - KraceKumar
 
 [https://koaning.io/til.html](https://koaning.io/til.html) - Vincent D. Warmerdam
 
-[https://til.simonwillison.net/](https://til.simonwillison.net)Simon Willison
+[https://til.simonwillison.net/](https://til.simonwillison.net/)Simon Willison
 
 
 
 There is an awesome gitbook by Santhost Thottingal which inspired me to create it with this platform:\
 \
-[https://docs.thottingal.in/](https://docs.thottingal.in)
+[https://docs.thottingal.in/](https://docs.thottingal.in/)
 
 
 

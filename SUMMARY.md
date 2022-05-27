@@ -16,6 +16,7 @@
 * [Extracting a Json Object as List(regex)](python/extracting-a-json-object-as-list-regex.md)
 * [f-strings debugging shortcut](python/f-strings-debugging-shortcut.md)
 * [Pytest](python/pytest.md)
+* [conda switch between python versions](python/conda-switch-between-python-versions.md)
 * [Nested functions exception handling](python/nested-functions-exception-handling.md)
 
 ## Programming
