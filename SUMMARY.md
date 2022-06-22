@@ -8,6 +8,7 @@
   * [SeldonIO](ai-ml/seldonio.md)
   * [Eliza - demo](ai-ml/eliza-demo.md)
   * [Helsinki-NLP Translation models](ai-ml/helsinki-nlp-translation-models.md)
+* [Fastai Learning](fastai-learning.md)
 
 ## Python
 
