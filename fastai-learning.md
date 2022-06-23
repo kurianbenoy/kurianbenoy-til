@@ -20,3 +20,5 @@ Not to be taken as an exact example, but I’ve tried to quickly sketch out what
 
 
 and metrics sees no improvement
+
+Source: https://forums.fast.ai/t/lesson-2-official-topic/96033/226?u=kurianbenoy
