@@ -32,9 +32,9 @@ Heart of heart of asyncio is select\_once method which calls the proactors and i
 
 ![](<../.gitbook/assets/image (10).png>)
 
-![](<../.gitbook/assets/image (11).png>)
-
 ![](<../.gitbook/assets/image (11) (1).png>)
+
+![](<../.gitbook/assets/image (11) (1) (1).png>)
 
 
 
