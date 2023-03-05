@@ -6,6 +6,7 @@
   * [Kubernetees Helm Charts](deployment/kubernetees-helm-charts.md)
 * [AI/ML](ai-ml/README.md)
   * [SeldonIO](ai-ml/seldonio.md)
+  * [Watching nvidia-smi](ai-ml/watching-nvidia-smi.md)
   * [composer library](ai-ml/composer-library.md)
   * [Better to pass callback in fit\_one\_cycle](ai-ml/better-to-pass-callback-in-fit\_one\_cycle.md)
   * [Eliza - demo](ai-ml/eliza-demo.md)
