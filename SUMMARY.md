@@ -7,6 +7,7 @@
 * [AI/ML](ai-ml/README.md)
   * [SeldonIO](ai-ml/seldonio.md)
   * [Watching nvidia-smi](ai-ml/watching-nvidia-smi.md)
+  * [How does github copilot works?](ai-ml/how-does-github-copilot-works.md)
   * [composer library](ai-ml/composer-library.md)
   * [Better to pass callback in fit\_one\_cycle](ai-ml/better-to-pass-callback-in-fit\_one\_cycle.md)
   * [Eliza - demo](ai-ml/eliza-demo.md)
