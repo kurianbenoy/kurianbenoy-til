@@ -6,6 +6,7 @@
   * [Kubernetees Helm Charts](deployment/kubernetees-helm-charts.md)
 * [AI/ML](ai-ml/README.md)
   * [SeldonIO](ai-ml/seldonio.md)
+  * [Installing software in E2E cloud compute](ai-ml/installing-software-in-e2e-cloud-compute.md)
   * [Watching nvidia-smi](ai-ml/watching-nvidia-smi.md)
   * [How does github copilot works?](ai-ml/how-does-github-copilot-works.md)
   * [composer library](ai-ml/composer-library.md)
