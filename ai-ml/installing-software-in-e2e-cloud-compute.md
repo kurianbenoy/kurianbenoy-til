@@ -30,3 +30,18 @@ Verify the installation using:\
 import torch
 torch.cuda.is_available()
 ```
+
+Install jupyter lab and run with no password:
+
+```
+pip install jupyterlab
+
+jupyter lab --allow-root --ip='*' --NotebookApp.token='' --NotebookApp.password=''
+```
+
+
+
+Then expose URL with ngrok: `ngrok http 8888`\
+\
+
+
