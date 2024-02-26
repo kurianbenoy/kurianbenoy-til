@@ -47,3 +47,50 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 
 
 {% embed url="https://itsfoss.com/install-chrome-debian-kali-linux/" %}
+
+
+
+### Text Editors
+
+
+
+```
+sudo apt install vim
+```
+
+Cursor.so and VSCODE
+
+
+
+{% embed url="https://cursor.sh/" %}
+
+{% embed url="https://code.visualstudio.com/docs/setup/linux" %}
+
+
+
+```
+apt install ./<>.deb
+
+#older version
+sudo dpkg -i <file>.deb
+# sudo apt-get install -f # Install dependencies
+```
+
+
+
+Configurations:
+
+{% embed url="https://raw.githubusercontent.com/kurianbenoy/reimagined-dotfiles/master/.vimrc" %}
+
+
+
+{% embed url="https://raw.githubusercontent.com/kurianbenoy/reimagined-dotfiles/master/.bash_aliases" %}
+
+{% embed url="https://github.com/kurianbenoy/reimagined-dotfiles" %}
+
+
+
+### Install nodejs
+
+
+
