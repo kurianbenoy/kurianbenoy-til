@@ -25,4 +25,25 @@ Add username in that file as:\
 username ALL=(ALL) ALL
 ```
 
-[https://askubuntu.com/questions/7477/how-can-i-add-a-user-as-a-new-sudoer-using-the-command-line](https://askubuntu.com/questions/7477/how-can-i-add-a-user-as-a-new-sudoer-using-the-command-line)
+{% embed url="https://askubuntu.com/questions/7477/how-can-i-add-a-user-as-a-new-sudoer-using-the-command-line" %}
+
+### Basic Installation software
+
+
+
+```
+sudo do apt update
+sudo apt upgrade
+
+sudo apt install wget
+sudo apt install git
+
+# Installation of chrome
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+```
+
+
+
+{% embed url="https://itsfoss.com/install-chrome-debian-kali-linux/" %}
