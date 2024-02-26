@@ -27,6 +27,7 @@
 
 ## Programming
 
+* [Installing Linux Operating system](programming/installing-linux-operating-system.md)
 * [Certbots usage](programming/certbots-usage.md)
 * [Code highlighting in Google Docs](programming/code-highlighting-in-google-docs.md)
 * [HTTP Methods](programming/http-methods.md)
