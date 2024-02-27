@@ -94,3 +94,22 @@ Configurations:
 
 
 
+```
+ sudo apt install nodejs npm
+```
+
+{% embed url="https://www.rosehosting.com/blog/how-to-install-node-js-and-npm-on-debian-11/" %}
+
+### Install Python
+
+
+
+```
+wget https://raw.githubusercontent.com/fastai/fastsetup/master/setup-conda.sh
+
+source setup-conda.sh
+. ~/.bashrc
+conda install -yq mamba
+```
+
+{% embed url="https://kurianbenoy.com/posts/2022/2022-05-28-fastai-walthrus1.html" %}
