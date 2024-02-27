@@ -109,7 +109,25 @@ wget https://raw.githubusercontent.com/fastai/fastsetup/master/setup-conda.sh
 
 source setup-conda.sh
 . ~/.bashrc
-conda install -yq mamba
+conda install -yq mamba -c conda-forge
 ```
 
 {% embed url="https://kurianbenoy.com/posts/2022/2022-05-28-fastai-walthrus1.html" %}
+
+
+
+### Settings
+
+
+
+> Check mouse trackpad setting to enable double tap
+
+
+
+### Displays in Linux
+
+\
+For screensharing\
+
+
+Using two monitors?
