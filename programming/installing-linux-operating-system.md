@@ -127,7 +127,17 @@ conda install -yq mamba -c conda-forge
 ### Displays in Linux
 
 \
-For screensharing\
+For screensharing - How to use two monitors or share when giving presentations??
 
 
-Using two monitors?
+
+It wasn't as complicated as I expected. Just press function key and then press the key for screensharing in laptop.
+
+> In my case it was: FN+ F7 key
+>
+>
+
+[https://www.kubuntuforums.net/forum/currently-supported-releases/kubuntu-22-04-jammy-jellyfish/desktop-environment-support/673028-mirror-the-laptop-kde-desktop-to-smart-tv-via-hdmi](https://www.kubuntuforums.net/forum/currently-supported-releases/kubuntu-22-04-jammy-jellyfish/desktop-environment-support/673028-mirror-the-laptop-kde-desktop-to-smart-tv-via-hdmi)
+
+
+
